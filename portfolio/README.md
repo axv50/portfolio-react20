@@ -1,4 +1,13 @@
-# module-20-challenge
+#
+title: React portfolio
+author: Alexis Vega
+Worked with Randolph Davis
+
+Git Hub Repo:
+
+Working Page:
+
+module-20-challenge
 
 GIVEN a single-page application portfolio for a web developer
 WHEN I load the portfolio
@@ -26,4 +35,3 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
-I worked with Alexis Vega
