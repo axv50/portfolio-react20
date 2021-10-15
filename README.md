@@ -4,9 +4,9 @@ author: Alexis Vega
 Worked with Randolph Davis
 
 Git Hub Repo:
-
+https://github.com/axv50/portfolio-react20
 Working Page:
-
+https://axv50.github.io/portfolio-react20/
 module-20-challenge
 
 GIVEN a single-page application portfolio for a web developer
